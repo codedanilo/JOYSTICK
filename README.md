@@ -34,3 +34,6 @@ A técnica de debouncing é aplicada para garantir que os botões não gerem lei
 - **Debouncing**: Implementado nas interrupções dos botões para evitar múltiplos acionamentos.
 - **Display SSD1306**: Utilizado para exibir o quadrado e a borda modificada com base nas entradas.
 - **Controle de LEDs via PWM**: Os LEDs RGB são controlado
+
+### Link do vídeo
+https://youtube.com/shorts/aoz3WzUaxyQ?feature=share
